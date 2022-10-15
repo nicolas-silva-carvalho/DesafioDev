@@ -1,0 +1,43 @@
+.cabeçalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    padding: 1em 5em;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+   
+}
+
+.titulo {
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0.5em;
+    margin-right: 5em;
+}
+
+.lista-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.lista-menu_link {
+    font-weight: 500;
+    color: var(--cinza-claro);
+    text-decoration: none;
+    padding: 0.5em 1em 0.5em 1em;
+    
+}
+
+.botao-cadastrar {
+    background: var(--vermelho);
+    border: 1px solid var(--vermelho);
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    color: var(--branco);
+}

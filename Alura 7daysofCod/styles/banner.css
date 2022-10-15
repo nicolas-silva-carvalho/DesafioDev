@@ -1,0 +1,158 @@
+.banner {
+    text-align: center;
+    padding: 5em;
+}
+
+.sobre-nos {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.titulo-banner {
+    color: var(--preto);
+    font-weight: 600;
+    font-size: 48px;
+    padding: 0.5em 1em 1em 1em;
+}
+
+.texto {
+    color: var(--cinza-claro);
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0 8em 0 8em;
+}
+
+.metricas {
+    padding: 0 4em 0 4em;
+}
+
+.metricas-conteudo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.metrica-unidade {
+    padding: 0 2em 0 2em;
+}
+
+.valor-metricas {
+    font-weight: 600;
+    font-size: 60px;
+    color: var(--vermelho);
+}
+
+.titulo-metricas {
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--preto);
+    padding: 1em 0 1em 0;
+}
+
+.texto-metricas {
+    color: var(--cinza-claro);
+}
+
+.sobre-nos_vaga {
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--vermelho);
+    display: inline;
+    padding: 0.5em;
+}
+
+.titulo-banner_vaga {
+    font-size: 36px;
+    padding: 0.7em;
+}
+
+.metricas_vaga {
+    text-align: center;
+    margin-top: 10em;
+}
+
+.metricas_vaga {
+    padding: 0 4em 0 4em;
+}
+
+.time-optimus {
+    padding: 3em 0 3em 0;
+}
+
+.container_trabalho {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.container_conteudo {
+    display: block;
+    text-align: left;
+    margin: 2em 19em 2em 17em;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+}
+
+.container_final {
+    padding: 1em;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.container_final1 {
+    padding: 1em;
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--cinza-claro);
+}
+
+.container_titulo {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.container_trabalho-dev {
+    margin-left: 9em;
+    padding-top: 1.5em;
+}
+
+.container__empresa {
+    text-align: center;
+}
+
+.sobre-empresa {
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    margin: 4em;
+    padding: 3em;
+}
+
+.texto-vermelho {
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--vermelho);
+    padding: 1em;
+}
+
+.titulo-preto {
+    font-weight: 500;
+    font-size: 36px;
+    color: var(--preto);
+}
+
+.nome-dev {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.dev-dev {
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--cinza-claro);
+    padding: 1em;
+}
+
+.logo-julia {
+    padding: 2em 2em 1em 2em;
+}
